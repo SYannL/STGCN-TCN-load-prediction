@@ -22,7 +22,7 @@ This project performs analysis and forecasting on spatio-temporal data by implem
 You can install the dependencies with the following command:
 ```bash
 pip install -r requirements.txt
-
+```bash
 
 ## Feature Extraction in Temporal and Spatial Domains
 
